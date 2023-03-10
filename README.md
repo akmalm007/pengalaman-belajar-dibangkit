@@ -1,8 +1,9 @@
-# pengalaman-belajar-dibangkit
+# Pengalaman-Belajar-DiBangkit
+
 Pengalaman belajar ku selama di Bangkit Academy
 
-20 Maret 2023 - 26 Maret 2023
---
+**20 Maret 2023 - 26 Maret 2023**  
+
 Pada Minggu Pertama ku belajar di Bangkit aku belajar tentang pemrograman web dasar dengan HTML dan CSS
 hal hal yang kupelajari dari Docidng ialah
 - Syntax HTML dasar yang telah aku ketahui dan juga yang aku baru lihat yaitu nav, header, footer, dan main yang bisa disebut Semantic HTML versi baru dari tag <div>
@@ -14,8 +15,7 @@ simpulannya banyak hal baru yang aku pelajari dari web dasar dicoding ini dan se
 halaman webnya sitenya
 https://www.dicoding.com/academies/123/tutorials/4916
 
-27 Febuari 2023 - 3 Maret 2023
---
+**27 Febuari 2023 - 3 Maret 2023** 
 Pada minggu ini aku belajar tentang Cloud Computing melalui Google Cloud Skill Boost di sana aku mempelajari tentang teknologi cloud apa saja infrastructurenya kemudian apa saja produk dan solusi yang diberikan kepada Google untuk berbagai kalangan seperti Enterprise ataupun Developer
 hal hal yang menarik selama mempelajari Google Cloud Platform atau GCP antara lain
 - Mengetahui kegunaan Cloud untuk berbagai macam fungsi di bidang sistem informarsi seperti storage, API, ataupun Machine Learning
