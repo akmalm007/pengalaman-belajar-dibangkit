@@ -13,3 +13,10 @@ hal hal yang kupelajari dari Docidng ialah
 simpulannya banyak hal baru yang aku pelajari dari web dasar dicoding ini dan semoga aku bisa belajar hal lebih tentang website development nantinya
 halaman webnya sitenya
 https://www.dicoding.com/academies/123/tutorials/4916
+
+27 Febuari 2023 - 3 Maret 2023
+--
+Pada minggu ini aku belajar tentang Cloud Computing melalui Google Cloud Skill Boost di sana aku mempelajari tentang teknologi cloud apa saja infrastructurenya kemudian apa saja produk dan solusi yang diberikan kepada Google untuk berbagai kalangan seperti Enterprise ataupun Developer
+hal hal yang menarik selama mempelajari Google Cloud Platform atau GCP antara lain
+- Mengetahui kegunaan Cloud untuk berbagai macam fungsi di bidang sistem informarsi seperti storage, API, ataupun Machine Learning
+- Melakukan praktek langsung dengan enviroment GCP dan mencoba berbagai macam tools yang disediakan oleh GCP untuk membantu proses production dari aplikasi kita
