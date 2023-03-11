@@ -21,3 +21,6 @@ Pada minggu ini aku belajar tentang Cloud Computing melalui Google Cloud Skill B
 hal hal yang menarik selama mempelajari Google Cloud Platform atau GCP antara lain
 - Mengetahui kegunaan Cloud untuk berbagai macam fungsi di bidang sistem informarsi seperti storage, API, ataupun Machine Learning
 - Melakukan praktek langsung dengan enviroment GCP dan mencoba berbagai macam tools yang disediakan oleh GCP untuk membantu proses production dari aplikasi kita
+  
+**11 Maret 2023**  
+  Pada hari Sabtu ini aku mulai mempelajari tentang JavaScript di Dicoding dengan progress sekitar (13%).
