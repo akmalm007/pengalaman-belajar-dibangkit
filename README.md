@@ -24,3 +24,6 @@ hal hal yang menarik selama mempelajari Google Cloud Platform atau GCP antara la
   
 **11 Maret 2023**  
   Pada hari Sabtu ini aku mulai mempelajari tentang JavaScript di Dicoding dengan progress sekitar (13%).
+  
+  **16 Maret 2023**
+  Update sekarang aku sudah belajar banyak hal tentang javascript seperti OOP, Function, dan Tipe data di JavaScript sekarang progress aku ada di (50%).
